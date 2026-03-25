@@ -27,3 +27,17 @@ Analisar o volume de chamados e gerar previsões para auxiliar no planejamento d
 ## ▶️ Como executar
 
 1. Instale as dependências:
+
+## 📊 Visualizações
+
+### 📈 Gráfico 1
+![Gráfico 1](grafico1.png)
+
+### 📈 Gráfico 2
+![Gráfico 2](grafico2.png)
+
+### 📈 Gráfico 3
+![Gráfico 3](grafico3.png)
+
+### 📈 Gráfico 4
+![Gráfico 4](grafico4.png)
